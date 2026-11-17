@@ -80,12 +80,12 @@
       "Weather and climate prediction across interacting time and space scales: coupled ocean–atmosphere dynamics, turbulence closures, subseasonal variability, offshore wind and wind–wave–current analysis."
     ],
     [
-      "Hierarchical Data Assimilation and Digital Twins",
+      "Hierarchical Data Assimilation",
       "Combining heterogeneous observations and model information across scales: decentralized estimation, learned priors, uncertainty calibration, and digital twins tested for information sharing, physical consistency and prediction under missing observations."
     ],
     [
       "Edge Sensing and Resilience",
-      "Environmental sensing and local computation for energy, water, coastal and marine infrastructure exposed to hazards, including quantum-enhanced and on-sensor approaches."
+      "Environmental sensing and local computation for energy, water, coastal and marine infrastructure exposed to hazards, including quantum-enhanced and on-sensor inference and control approaches, iundertater tomographic reconstruction and distributed inference."
     ]
   ],
   "preprints": [
@@ -101,7 +101,7 @@
       "authors": "<b>M. Peña</b>",
       "year": "2026",
       "title": "Logit–Koopman coordinates for scale-resolved forecast-error growth in a three-level Lorenz-96 system",
-      "venue": "arXiv:2610.34779. Submitted to <i>Chaos</i>.",
+      "venue": "arXiv:2610.34779",
       "paper": "https://arxiv.org/abs/2610.34779v1"
     },
     {
@@ -214,19 +214,19 @@
   "teaching": [
     [
       "Predictive Analytics for Engineers and Scientists",
-      "Graduate, UConn, 2018–"
+      "Graduate, UConn, 2018–2024"
     ],
     [
       "Data Analytics for Engineers",
-      "Undergraduate, UConn, 2023–"
+      "Undergraduate, UConn, 2023"
     ],
     [
       "Engineering Economics",
-      "Undergraduate, UConn, 2019–"
+      "Undergraduate, UConn, 2019–2025"
     ],
     [
       "Environmental Modeling",
-      "Undergraduate, UConn, 2017–"
+      "Undergraduate, UConn, 2017–2025"
     ],
     [
       "Quantitative Methods for Engineers",
@@ -250,10 +250,10 @@
     ]
   ],
   "service": [
-    "Associate Editor, <i>Weather and Forecasting</i> (AMS); MDPI <i>International Journal of Modelling</i>.",
+    "Editor, <i>Frontiers in Climate</i>",
     "Co-Chair, U.S. WMO-THORPEX Science Steering Committee, 2012–2014; Co-Chair, WWRP North American Regional Committee, 2009.",
     "Member, NOAA Subseasonal-to-Seasonal and Climate Development Task Forces, 2016–2019.",
     "Organizer, International Conference on Subseasonal Forecasting (2013), NCEP Ensemble Users Workshop (2014), UConn Grid Modernization Summits (2018, 2019).",
-    "Reviewer for NSF, NOAA, the German Research Foundation (DFG), <i>Nature</i>, <i>Journal of Climate</i>, <i>QJRMS</i>, <i>Monthly Weather Review</i> and other journals."
+    "Reviewer for <i>Nature</i>, <i>Journal of Climate</i>, <i>QJRMS</i>, <i>Monthly Weather Review</i>, <i> IAES (AMS) </i> and <i> MDPI </i>."
   ]
 }
