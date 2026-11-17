@@ -1,0 +1,601 @@
+{
+ "journal": [
+  {
+   "text": "Mitsopoulos, P., M. Peña, S. Flampouris, and M. Pondeca (2026). Impact of Assimilating Remote Sensing Observations on Wind and Wave Analysis Offshore of the Contiguous United States. Remote Sensing, 18(19), 3383.",
+   "url": "https://doi.org/10.3390/rs18193383",
+   "year": 2026
+  },
+  {
+   "text": "Zhang, W., Z. Toth, F. Zhou, J. Feng, M. Peña, and B. Kirtman (2026). A New Approach to Estimating the Limit of Predictability. Advances in Atmospheric Sciences, 43, 2228-2243.",
+   "url": "https://doi.org/10.1007/s00376-026-5621-8",
+   "year": 2026
+  },
+  {
+   "text": "dos Reis, J.S., dos Santos Silva, F.D., Gomes, H.B. et al., 2026: Impacts of Climate Change on Offshore Wind Power Density in Brazil Under Different Warming Scenarios. Earth Syst Environ.",
+   "url": "https://doi.org/10.1007/s41748-026-01289-y",
+   "year": 2026
+  },
+  {
+   "text": "Feng, J., Z. Toth, and M. Peña (2026). The limits of knowing: An equilibrium between the observational gain and chaotic loss of information in data assimilation. Quarterly Journal of the Royal Meteorological Society, 152(775), e70067. First published online November 11, 2025.",
+   "url": "https://doi.org/10.1002/qj.70067",
+   "year": 2026
+  },
+  {
+   "text": "Unlu, A.  and M. Peña, 2025: Comparative Analysis of Hybrid Deep Learning Models for Electricity Loads Forecasting During Extreme Weather. Energies 18, 12, 3068.",
+   "url": null,
+   "year": 2025
+  },
+  {
+   "text": "Unlu, A., and M. Peña (2024). Assessment of Line Outage Prediction Using Ensemble Learning and Gaussian Processes During Extreme Meteorological Events. Wind, 4(4), 342-362.",
+   "url": "https://doi.org/10.3390/wind4040017",
+   "year": 2024
+  },
+  {
+   "text": "Unlu, A., S. A. Dorado-Rojas, M. Peña, and Z. Wang (2024). Weather-Informed Forecasting for Time Series Optimal Power Flow of Transmission Systems With Large Renewable Share. IEEE Access, 12, 92652–92662.",
+   "url": "https://doi.org/10.1109/ACCESS.2024.3419841",
+   "year": 2024
+  },
+  {
+   "text": "Feng, J., Z. Toth, J. Zhang, and M. Peña (2024). Ensemble forecasting: A foray of dynamics into the realm of statistics. Quarterly Journal of the Royal Meteorological Society, 150(762), 2537-2560.",
+   "url": "https://doi.org/10.1002/qj.4745",
+   "year": 2024
+  },
+  {
+   "text": "Yin, Y., and M. Peña (2024). Analysis of bias correction of HRRR model outputs for offshore wind power ramp events. Renewable Energy, 228, 120581.",
+   "url": "https://doi.org/10.1016/j.renene.2024.120581",
+   "year": 2024
+  },
+  {
+   "text": "Unlu, A. and M. Peña, 2024: Combined MIMO Deep Learning Method for ACOPF with High Wind Power Integration. Energies. 17 (4), 796.",
+   "url": null,
+   "year": 2024
+  },
+  {
+   "text": "Yin, Y., and M. Peña, 2024: An Imputing Technique for Surface Water Extent Timeseries with Streamflow Discharges. Water. 16 (2), 250.",
+   "url": null,
+   "year": 2024
+  },
+  {
+   "text": "Mitsopoulos, P. and M. Peña, 2023: Characterizing Coastal Wind Speed and Significant Wave Height Using Satellite Altimetry and Buoy Data. Remote Sensing 15(4), 987.",
+   "url": null,
+   "year": 2023
+  },
+  {
+   "text": "Yang, M., G. Wang, S. Wu, P. Block, M. R. Heider, M. Peña, et. al., 2023: Seasonal prediction of crop yields in Ethiopia using an analog approach. Agricultural and Forest Meteorology, 331, 109347.",
+   "url": null,
+   "year": 2023
+  },
+  {
+   "text": "Freitas, I.G.P., H.B. Gomes, M. Peña, P. Mitsopoulos, 2022: Evaluation of Wind and Wave Estimates from CMEMS Reanalysis for Brazil’s Offshore Energy Resource Assessment, Wind 2(3), 586-598.",
+   "url": null,
+   "year": 2022
+  },
+  {
+   "text": "Heider, M. R., M. Peña, and E. Anagnostou, 2022: Bias Correction of Mixed Distributions of Temperature with Strong Diurnal Signal. Weather and Forecasting,.",
+   "url": "https://doi.org/10.1175/WAF-D-21-0108.1",
+   "year": 2022
+  },
+  {
+   "text": "Jankov, I., S. Gregory, S. Ravela, Z. Toth, M. Peña, 2021: Partition of Forecast Error into Positional and Structural Components. Advances in Atmospheric Sciences, 38, 1012-1019.",
+   "url": null,
+   "year": 2021
+  },
+  {
+   "text": "da Rocha, R.L., D. D. Pinto, F.D. Silva, H.B. Gomes, H.B. Gomes, R. L. Costa, M. P. Pereira, M. Peña, C. Coelho, D. L. Herdies, 2021: An Empirical Seasonal Rainfall Forecasting Model for the Northeast Region of Brazil. Water, 31, 1631.",
+   "url": null,
+   "year": 2021
+  },
+  {
+   "text": "Li, X. P. Mitsopoulos, Y. Yin, and M. Peña, 2021: SARAL-AltiKa Wind and Significant Wave Height for Offshore Wind Energy applications in the New England Region. Remote Sensing, 13, 57.",
+   "url": null,
+   "year": 2021
+  },
+  {
+   "text": "Feng, J., Z. Toth, M. Peña, S. Ravela, 2020: A New Measure of Ensemble Central Tendency. Weather and Forecasting 35 (3), 879-889.",
+   "url": null,
+   "year": 2020
+  },
+  {
+   "text": "Feng, J., Z. Toth, M. Peña, J. Zhang, 2020: Partition of Analysis and Forecast Error Variance into Growing and Decaying Components. Quarterly Journal of the Royal Meteorological Society. Online early release view:.",
+   "url": "https://doi.org/10.1002/qj.3738",
+   "year": 2020
+  },
+  {
+   "text": "Lillo, S., D. Parsons, M. Peña, 2019: Dynamics behind a record-breaking trough over Mexico and internal atmospheric variability during El Niño. Bulletin Amer. Meteorol. Soc. Online version available at DOI 10.1175/BAMS-D-18-0331.1.",
+   "url": "https://doi.org/10.1175/BAMS-D-18-0331.1",
+   "year": 2019
+  },
+  {
+   "text": "Li, W., Y. Zhu, X. Zhou, D. Hou, E. Sinsky, C. Melhauser, M. Peña, R. Wobus, H. Guan, 2018: Evaluating the MJO Prediction skill from Different Configurations of NCEP GEFS Extended Forecast. Climate Dynamics. 52, 4923-4936.",
+   "url": null,
+   "year": 2018
+  },
+  {
+   "text": "Ping Liu, Yuejian Zhu, Qin Zhang, Jon Gottschalck, Minghua Zhang, Christopher Melhauser, Wei Li, Hong Guan, Xiaqiong Zhou, Dingchen Hou, Malaquias Peña, Guoxiong Wu, Yimin Liu, Linjiong Zhou, Bian He, Wenting Hu, Raymond Sukhdeo, 2018: Climatology of tracked persistent maxima of 500-hPa geopotential height, Climate Dynamics, 51, 701-717.",
+   "url": null,
+   "year": 2018
+  },
+  {
+   "text": "Yuejian Zhu, Xiaqiong Zhou, Wei Li, Dingchen Hou, Christopher Melhauser, Eric Sinsky, Malaquias Peña, Bing Fu, Hong Guan, Walter Kolczynski, Richard Wobus, Vijay Tallapragada, 2018: Towards the Improvement of Sub-Seasonal Prediction in the NCEP Global Ensemble Forecast System (GEFS), J. Geophys. Res., 123, 6732-6745.",
+   "url": null,
+   "year": 2018
+  },
+  {
+   "text": "Yuejian Zhu, Xiaqiong Zhou, Malaquias Peña, Wei Li, Christopher Melhauser, Dingchen Hou, 2017: Impact of sea surface temperature forcing on weeks 3 and 4 forecast skill in the NCEP Global Ensemble Forecasting System, Weather and Forecasting, 32, 2159-2174.",
+   "url": null,
+   "year": 2017
+  },
+  {
+   "text": "Julio Cesar Buendia-Espinoza, Paulino Perez-Rodriguez, Juan Manuel Gonzalez-Camacho, Sergio Perez-Elizalde, Adolfo Exebio-Garcia, Michel Rosengaus Moshinsky, Malaquias Pena, 2017: Identification of changes in the North Atlantic cyclogenesis using a Gaussian mixture model, Technologies y Ciencias del Agua, 8, 5-18.",
+   "url": null,
+   "year": 2017
+  },
+  {
+   "text": "Jie Feng, Zoltan Toth, Malaquias Peña, 2017: Spatially extended estimates of analysis and short-range forecast error variances, Tellus A, 69, 1-13.",
+   "url": null,
+   "year": 2017
+  },
+  {
+   "text": "Barradas, A., E. Kalnay, M. Peña, A. Bozorg-Magham, S. Motesharrei, 2017: Driver of the locally coupled ocean-atmosphere anomalies. Climate Dynamics, 48, 2153-2172.",
+   "url": null,
+   "year": 2017
+  },
+  {
+   "text": "S. Majumdar, E. Chang, M. Peña, R. Tatusko, Z. Toth, 2015: Planning the next decade of coordinated research on minutes-to-seasonal predictions of high-impact weather. Bull. Amer. Meteor. Soc., 96, 461-464.",
+   "url": null,
+   "year": 2015
+  },
+  {
+   "text": "A. Robertson, A. Kumar, M. Peña, F. Vitart, 2015: International Conference on Sub-seasonal to seasonal prediction. Bull. Amer. Meteor. Soc., 96, ES49-ES53.",
+   "url": null,
+   "year": 2015
+  },
+  {
+   "text": "Peña, M., and Z. Toth (2014). Estimation of analysis and forecast error variances. Tellus A, 66, 21767.",
+   "url": "https://doi.org/10.3402/tellusa.v66.21767",
+   "year": 2014
+  },
+  {
+   "text": "B. Kirtman et al. M. Peña, 2014: The National Multi-Model Ensemble. Bull. Amer. Meteor. Soc., 95, 585-601.",
+   "url": null,
+   "year": 2014
+  },
+  {
+   "text": "J. Ma, Y. Zhu, D. Hou, X. Zhou, M. Peña, 2014: Ensemble Transform with 3D Rescaling Initialization Method. Mon. Wea Rev., 142, 4053-4073.",
+   "url": null,
+   "year": 2014
+  },
+  {
+   "text": "S. Saha et al. M. Peña, 2014: The NCEP Climate Forecast System Version 2. Journal of Climate. 27, 2185-2208.",
+   "url": null,
+   "year": 2014
+  },
+  {
+   "text": "E. Chang, M. Peña, Z. Toth, 2013: International Research Collaboration in High-Impact Weather Prediction. Bull. Amer. Meteor. Soc., 94, ES149-ES151.",
+   "url": null,
+   "year": 2013
+  },
+  {
+   "text": "D. Hou, et. al. M. Pena, Bo Cui, 2013: Climatology-Calibrated Precipitation Analysis at Fine Scales: Statistical Adjustment of Stage IV towards CPC Gauge Based Analysis. J. Hydrometeorol., 14, 2542-2557.",
+   "url": null,
+   "year": 2013
+  },
+  {
+   "text": "E. Becker, H. van den Dool, and M. Peña, 2013: Short-term climate extremes: prediction skill and predictability. J. Climate, 26, 512-531. (.",
+   "url": "http://dx.doi.org/10.1175/JCLI-D-12-00177.1)",
+   "year": 2013
+  },
+  {
+   "text": "Peña, M., Toth, Z. and M. Wei, 2010: Controlling noise in ensemble data assimilation schemes. Mon. Wea. Rev., 138, 1502-1512.",
+   "url": null,
+   "year": 2010
+  },
+  {
+   "text": "Peña, M., and H. van den Dool (2008). Consolidation of Multimodel Forecasts by Ridge Regression: Application to Pacific Sea Surface Temperature. Journal of Climate, 21, 6521-6538.",
+   "url": "https://doi.org/10.1175/2008JCLI2226.1",
+   "year": 2008
+  },
+  {
+   "text": "Toth, Z., M. Peña, A. Vinzileos, 2007: Bridging the gap between weather and climate forecasting: Research priorities for intraseasonal prediction. Bull. Amer. Meteor. Soc., 88, 1427-1429.",
+   "url": null,
+   "year": 2007
+  },
+  {
+   "text": "Toth, Z. and M. Peña, 2007: Data Assimilation and Numerical Forecasting with imperfect models: The mapping paradigm. Physica D, 230, 146-158.",
+   "url": null,
+   "year": 2007
+  },
+  {
+   "text": "Saha, S., M. Peña, et. al., 2006: The NCEP Climate Forecast System. Journal of Climate, 19, 3483-3517. Manuscript available at.",
+   "url": "http://cfs.ncep.noaa.gov",
+   "year": 2006
+  },
+  {
+   "text": "Peña, M. and E. Kalnay, 2004: Separating fast and slow modes in coupled chaotic systems. Non-linear Processes in Geophysics, 11,319-327.",
+   "url": null,
+   "year": 2004
+  },
+  {
+   "text": "Evans, E., N. Bhatti, J. Kinney, L. Pann, M. Peña, S-C Yang, E. Kalnay and J. Hansen, 2004: Rise undergraduates find that regime changes in Lorenz’s model are predictable. Bulletin of the American Meteorological Society, 85, 520-524.",
+   "url": null,
+   "year": 2004
+  },
+  {
+   "text": "Peña, M., M. Cai and E. Kalnay, 2004a: Lifespan of sub-seasonal locally coupled anomalies. J. Climate, 17, 1597-1604.",
+   "url": null,
+   "year": null
+  },
+  {
+   "text": "Peña, M., M. Cai and E. Kalnay, 2004b: Coupling Atmospheric Anomalies with the Ocean. Bulletin of the American Meteorological Society.",
+   "url": null,
+   "year": null
+  },
+  {
+   "text": "Peña, M., E. Kalnay and M. Cai, 2003: Statistics of locally coupled ocean-atmosphere anomalies. Non-linear Processes in Geophysics, 10, 245-251. European Geophysical Union.",
+   "url": null,
+   "year": 2003
+  },
+  {
+   "text": "Peña, M. and M.W. Douglas, 2002: Characteristics of Central American wet and dry spells during the rainy season. Monthly Weather Review, 130, 3054-3073.",
+   "url": null,
+   "year": 2002
+  },
+  {
+   "text": "Peña, M., E. Kalnay and M. Cai, 2001: Coupled ocean and atmosphere intraseasonal anomalies in reanalysis and AMIP data. WMO Magazine.",
+   "url": null,
+   "year": 2001
+  },
+  {
+   "text": "Douglas, M., M. Peña and J.L. Santos, 1998: Special Meteorological observations during ENSO 1997/1998 in the Northern Part of South America. Bull. Inst. Fr. Etudes Andines, 27, 493-500.",
+   "url": null,
+   "year": 1998
+  },
+  {
+   "text": "Carmona G. and M. Peña, 1992: The application of the renormalization group to diffusion in amorphous material. Revista Mexicana de Física 38 (Suplemento 1), 212-220.",
+   "url": null,
+   "year": 1992
+  }
+ ],
+ "proceedings": [
+  {
+   "text": "Unlu, A.  and M. Peña, 2025: Time Series Synthetic Load Data Generation for Forecasting and Power System Studies. 7th Global Power, Energy and Communication Conference (GPECOM), Bochum, Germany, 2025, pp. 923-928, doi: 10.1109/GPECOM65896.2025.11061984.",
+   "url": "https://doi.org/10.1109/GPECOM65896.2025.11061984",
+   "year": 2025
+  },
+  {
+   "text": "S. Ziegler, S. Shekhar, D. Scherle, and M. Peña, 2023: Deep Learning Signal Waveform Characterization of Partial Discharge for Underground Power Cable Conditions. IEEE Xplore, PES. DOI: 10.1109/PESGM52003.2023.10253077.",
+   "url": "https://doi.org/10.1109/PESGM52003.2023.10253077",
+   "year": 2023
+  },
+  {
+   "text": "Unlu, A., M. Peña, and Z. Wang, 2023: Comparison of the Combined Deep Learning Methods for Load Forecasting. IEEE Xplore, ISGT. DOI: 10.1109/ISGT51731.2023.10066449.",
+   "url": "https://doi.org/10.1109/ISGT51731.2023.10066449",
+   "year": 2023
+  },
+  {
+   "text": "Unlu, A., M. Peña, and Z. Wang (2022). Deep Learning Architectures for Solar PV Forecasting. North American Power Symposium, 1-6.",
+   "url": "https://doi.org/10.1109/NAPS56150.2022.10012176",
+   "year": 2022
+  }
+ ],
+ "chapters": [
+  {
+   "text": "Peña, M., L-C Chen, H. van den Dool, 2019: Climate Variability and Long-Term Ensemble Predictions. In: Duan Q., Pappenberger F., Thielen J., Wood A., Cloke H., Schaake J. (eds) Handbook of Hydrometeorological Ensemble Forecasting. Springer, Berlin, Heidelberg.",
+   "url": null,
+   "year": 2019
+  },
+  {
+   "text": "Huiling Yuan, Zoltan Toth, Malaquias Peña, Eugenia Kalnay, 2018: Overview of weather and climate systems. In: Duan Q., Pappenberger F., Thielen J., Wood A., Cloke H., Schaake J. (eds) Handbook of Hydrometeorological Ensemble Forecasting. Springer, Berlin, Heidelberg.",
+   "url": null,
+   "year": 2018
+  }
+ ],
+ "oral": [
+  {
+   "text": "Fontanez, A., and M. Peña (2027). A Reduced-Order Digital Twin Framework for Moving Marine Infrastructure with Physics-Based State Estimation. Selected for oral presentation at ACDSA 2027.",
+   "url": null,
+   "year": 2027
+  },
+  {
+   "text": "Prevezianos, A., M. Peña, A. Unlu, and E. Anagnostou (2027). Detecting Wind Power Ramps in Ensemble Weather Forecasts: A Comparison of Changepoint, Swinging-Door, and Machine-Learning Methods. Accepted for oral presentation at ACDSA, January 2027.",
+   "url": null,
+   "year": 2027
+  },
+  {
+   "text": "Peña, M., and P. Mitsopoulos (2026). Toward Coupled Coastal Wind–Wave–Current Analysis: Graph Localization and Diffusion-Learned Priors. Seminar, NOAA NCEP Environmental Modeling Center, October 7, 2026.",
+   "url": null,
+   "year": 2026
+  },
+  {
+   "text": "Peña, M. (2026). Multi-Theory Generative Ensembles of the MJO. 50th Climate Diagnostics and Prediction Workshop, College Park, MD, September 2026.",
+   "url": null,
+   "year": 2026
+  },
+  {
+   "text": "Peña, M. (2026). Quantum-scan data assimilation for adaptive explicit prediction of convective phase transitions. US CLIVAR Quantum Computing and Sensing for Weather and Climate Applications Workshop, Boulder, CO (virtual), August 5, 2026.",
+   "url": null,
+   "year": 2026
+  },
+  {
+   "text": "Mitsopoulos, P., M. Peña, and M. Pondeca (2026). Wind-Wave LETKF Data Assimilation of Remote Sensing and In Situ Observations: Updates on the 3D-RTMA Marine Component. Seminar, NOAA NCEP Environmental Modeling Center, July 20, 2026.",
+   "url": null,
+   "year": 2026
+  },
+  {
+   "text": "Peña, M. (2026). Hierarchy-Native EO Foundation Models for Digital Twins. 2nd ESA-NASA Workshop on AI Foundation Model for Earth Observation, Huntsville, AL, May 19–22, 2026.",
+   "url": null,
+   "year": 2026
+  },
+  {
+   "text": "Peña, M. (2025). A Hierarchical Framework for Decentralized, Real-Time Data Assimilation. 11th International Symposium on Data Assimilation, Melbourne, Australia, September 2025.",
+   "url": null,
+   "year": 2025
+  }
+ ],
+ "conference": [
+  {
+   "text": "M. Peña: Pricing the Quantum Path in Data Assimilation: An End-to-End Resource Ledger for Convective-Criticality Screening. Accepted poster, AGU Fall Meeting 2026, session IN33E, December 9, 2026.",
+   "url": null,
+   "year": 2026
+  },
+  {
+   "text": "M. Peña: Disciplining AI Foundation Models for Multiscale Prediction: Null-Gated and Hierarchical Logit-Koopman Architectures. Accepted poster, AGU Fall Meeting 2026, session IN13C, December 7, 2026.",
+   "url": null,
+   "year": 2026
+  },
+  {
+   "text": "Y. Yin and M. Peña: HRRR Forecast Model Evaluation for Offshore Wind Power Ramps, AMS, 2023, Denver, CO.",
+   "url": null,
+   "year": 2023
+  },
+  {
+   "text": "Y. Yin and M. Peña: HRRR Forecast Model Evaluation for Offshore Wind Power Ramps, AMS, 2022, (Online) Huston, TX.",
+   "url": null,
+   "year": 2022
+  },
+  {
+   "text": "Y. Yin and M. Peña: Analysis of Imputation Methods for Bi-variate Surface Water Extent and Stream Gage Time Series. AGU Fall Meeting 2021.",
+   "url": null,
+   "year": 2021
+  },
+  {
+   "text": "Haider, RM and M Peña: Evaluating S2S rainfall forecast for agricultural action-plan in the Upper Blue Nile River Basin. AGU Fall Meetig 2021.",
+   "url": null,
+   "year": 2021
+  },
+  {
+   "text": "Haider, RM and M Peña: Seasonal Forecasts for Food Security Applications in the Upper Blue Nile River Basin. AGU Fall Meeting 2020.",
+   "url": null,
+   "year": 2020
+  },
+  {
+   "text": "Haider, RM and M Peña: Bias Correction of Precipitation and Temperature Forecasts for Blue Nile Water Resources Management. AGU Fall Meeting 2018.",
+   "url": null,
+   "year": 2018
+  },
+  {
+   "text": "M. Peña: Ensemble generation approaches in the NCEP CFSv2. AMS Annual Conference, Seattle, WA, Jan 2017.",
+   "url": null,
+   "year": 2017
+  },
+  {
+   "text": "M. Peña: Monitoring the performance of the next Climate Forecast System version 3, throughout its development stage at EMC/NCEP, San Francisco, CA, Dec. 2016e.",
+   "url": null,
+   "year": null
+  },
+  {
+   "text": "M. Peña: Coupled perturbations in the CFSv2. S2S Extreme Events Workshop, Palisades, N.Y., Dec. 2016d.",
+   "url": null,
+   "year": null
+  },
+  {
+   "text": "M. Peña: Tropical influence on the forecast skill variability in the NH. Workshop on Teleconnections. International Center for Theoretical Physics. Trieste, Italy, October, 2016c.",
+   "url": null,
+   "year": null
+  },
+  {
+   "text": "M. Peña: EnKF perturbations in coupled models for subseasonal predictions. International Workshop on Coupled Data Assimilation. Toulouse, France, October, 2016b.",
+   "url": null,
+   "year": null
+  },
+  {
+   "text": "M. Peña: The use of the ensemble covariance matrix to propagate forecast uncertainty across climate model components. Columbia, MD, May 2016a.",
+   "url": null,
+   "year": null
+  },
+  {
+   "text": "M. Peña: Monthly Ensemble Forecasts from the NCEP GEFS. AGU, Montreal Canada. May 4, 2015c.",
+   "url": null,
+   "year": null
+  },
+  {
+   "text": "M. Peña: The MJO signal in the NCEP GEFS prediction system. Symposium of Madden Julian Oscilation, AMS. Phoenix, AZ, January 2015a.",
+   "url": null,
+   "year": null
+  },
+  {
+   "text": "M. Peña: Ensemble generation methods and skill of subseasonal predictions in the NCEP GEFS. World Weather Open Science Conference, Montreal, Canada. August 16-21, 2014.",
+   "url": null,
+   "year": 2014
+  },
+  {
+   "text": "M. Peña and Z. Toth: An unbiased estimation of analysis and short-range forecast error variances.  World Weather Open Science Conference, Montreal, Canada. August 16-21, 2014.",
+   "url": null,
+   "year": 2014
+  },
+  {
+   "text": "M. Peña: The Monthly GEFS. North American Ensemble Forecast System Workshop. Montreal, Canada. June 17-20, 2014.",
+   "url": null,
+   "year": 2014
+  },
+  {
+   "text": "M. Peña: A series of training courses on Ensemble Forecasting. Provided at the Meteorological Center in Peru. May 26-30, 2014.",
+   "url": null,
+   "year": 2014
+  },
+  {
+   "text": "M. Peña: The Extended Range Global Ensemble Forecast System at NCEP. Special Symposium on Advancing Weather and Climate Forecasts: Innovative Techniques and Applications. January 2013. Austin, TX.",
+   "url": null,
+   "year": 2013
+  },
+  {
+   "text": "M. Peña: Predictions beyond 2-weeks with the NCEP Global Ensemble Forecast System (GEFS). American Geophysical Union, The Meeting of the Americas. Iguazzu, Brazil. May 2010.",
+   "url": null,
+   "year": 2010
+  }
+ ],
+ "invited": [
+  {
+   "text": "“Weather forecasting in power grid systems” Colloquium CIMA, University of Buenos Aires, Argentina, November, 2022.",
+   "url": null,
+   "year": 2022
+  },
+  {
+   "text": "“Fast-changing environment in an all-electric and digital society”, XXI Encontro dos Alunos de Pos-Graduacao em Instituto Nacional de Pesquisas Espaciais (INPE). Brazil, October, 2022.",
+   "url": null,
+   "year": 2022
+  },
+  {
+   "text": "“Multi-Scale Wind Power Forecasting in Dispatch and Risk Hierarchical Frameworks”, 2nd Climate and Renewable Energy Resources Workshop. Alagoas, Brazil, July 2022.",
+   "url": null,
+   "year": 2022
+  },
+  {
+   "text": "“Energy Technology and Standards”, Energy Infrastructure Resilience and National Security Workshop. Sep 29-30, 2021.",
+   "url": null,
+   "year": 2021
+  },
+  {
+   "text": "“Change Point Detection Methods for Renewable Energy Integration”, Quality and Productivity Research Conference, Tallahasee, FL, July 2021.",
+   "url": null,
+   "year": 2021
+  },
+  {
+   "text": "“Metrics for validation of coastal models”, Development Testbed Center: NOAA-UFS Evaluation Metrics Workshop, College Park, February, 2021.",
+   "url": null,
+   "year": 2021
+  },
+  {
+   "text": "“Wind and solar energy resource monitoring and prediction”, First Climate and Renewable Energy Resources Workshop. Alagoas, Brazil, August, 2020.",
+   "url": null,
+   "year": 2020
+  },
+  {
+   "text": "“Challenges and Opportunities in Environmental Modeling”, School of Engineering, State University of Cd. Juarez, Mexico, 2019.",
+   "url": null,
+   "year": 2019
+  },
+  {
+   "text": "“Increased demand for climate data, information, and knowledge” Climandes Program in South-America. World Meteorological Organization. Perú, March 2018.",
+   "url": null,
+   "year": 2018
+  },
+  {
+   "text": "“Dynamical Seasonal Prediction for the UCONN-PIRE Project”, University of Wisconsin, Wisconsin, November 2017.",
+   "url": null,
+   "year": 2017
+  },
+  {
+   "text": "“Numerical Weather Prediction transformations and uses for better Climate and Environmental Predictions”. Stony Brooks University, Stony Brooks, NY, May 2019.",
+   "url": null,
+   "year": 2019
+  },
+  {
+   "text": "“Estimating and sampling model uncertainty in coupled NWP systems”.  Third RIKEN International Symposium on Data Assimilation and 7th Annual Japan Data Assimilation Workshop. Kobe, Japan, February 2017.",
+   "url": null,
+   "year": 2017
+  },
+  {
+   "text": "“Routine Diagnostics to Monitor the Next –Generation Unified Global Coupled System (UGCS) model”. NOAA-Environmental Modeling System (NEMS) Workshop. College Park, MD. September, 2016d.",
+   "url": null,
+   "year": null
+  },
+  {
+   "text": "“Exploring ensemble generation approaches for monthly forecasts at NCEP”. NOAA ESRL, Boulder, Colorado, July, 2016c.",
+   "url": null,
+   "year": null
+  },
+  {
+   "text": "“NCEP seasonal ensemble forecasting: the NMME and IMME projects”. Seventh NCEP Ensemble User Workshop. College Park, MD., June 2016b.",
+   "url": null,
+   "year": null
+  },
+  {
+   "text": "“Global ensemble forecasts: Current research and developments”. Argentine’s National Meteorological Service, Buenos Aires, Argentina, March 1st, 2016a.",
+   "url": null,
+   "year": null
+  },
+  {
+   "text": "“Development of a Monthly Global Ensemble Forecast System at NCEP”. Canadian Meteorological Center, Dorval, Canada. May 5, 2015.",
+   "url": null,
+   "year": 2015
+  },
+  {
+   "text": "“Predicting anomalies in atmosphere-ocean coupled models.” Symposium of Eugenia Kalnay, AMS. Phoenix, AZ, January 2015b.",
+   "url": null,
+   "year": null
+  },
+  {
+   "text": "“International Multi-Model Ensembles. Current research and developments” American Geophysical Union, San Francisco, CA. December 2014.",
+   "url": null,
+   "year": 2014
+  },
+  {
+   "text": "“Global ensemble forecasts at NCEP: Current research and developments”. At the 20th Anniversary of the CPTEC- Sao Paolo, Brazil. October 11-14, 2014.",
+   "url": null,
+   "year": 2014
+  },
+  {
+   "text": "“The Multi-Model Ensemble Prediction projects at NCEP”. Technical Meeting of EUROSIP. Toulouse, France. February 2012.",
+   "url": null,
+   "year": 2012
+  }
+ ],
+ "reports": [
+  {
+   "text": "Haider, RM and M Peña: Bias Correction of Mixed Distributions of Temperature and Precipitation with Strong Diurnal Signal; NOAA’s 46th Climate Diagnostics & Prediction Workshop; October 27, 2021.",
+   "url": null,
+   "year": 2021
+  },
+  {
+   "text": "Haider, RM and M Peña: Value Added Seasonal Forecast for the Blue Nile River Basin; NOAA’s 45th Climate Diagnostics & Prediction Workshop; December 13, 2020.",
+   "url": null,
+   "year": 2020
+  },
+  {
+   "text": "Haider, RM and M Peña: Enabling Numerical Seasonal Forecasts for High-Resolution Modeling of Blue Nile River Basin; NOAA's 44th Annual Climate Diagnostics and Prediction Workshop; October 23, 2019.",
+   "url": null,
+   "year": 2019
+  },
+  {
+   "text": "H. Yuan, P. Schultz, E.I. Tollerud, D. Hou, Y. Zhu, M. Pena, M. Charles, Z. Toth, 2019: Pseudo-precipitation: A continuous precipitation variable. NOAA Technical Memorandum OAR GSD-62.",
+   "url": "https://doi.org/10.25923/3h37-gp49",
+   "year": 2019
+  },
+  {
+   "text": "Penny et al. and M. Peña, 2017. Coupled Data Assimilation for Integrated Earth System Analysis and Prediction, Goals, Challenges and Recommendations. WWRP-World Meteorol. Organization. Available at.",
+   "url": "https://www.wmo.int/pages/prog/arep/wwrp/new/documents/Final_WWRP_2017_3_27_July.pdf",
+   "year": 2017
+  },
+  {
+   "text": "M. Peña, 2017. Development and use of numerical seasonal prediction systems. Instituto de Geofísica del Perú. Technical Bulleting, June issue. Available at:.",
+   "url": "http://www.met.igp.gob.pe/publicaciones/Divulgacion_PPR_El_Nino_IGP_201706.pdf",
+   "year": 2017
+  },
+  {
+   "text": "M. Peña and B. Mills, 2011. WMO North American Regional Committee: Annual report of activities. Available at: WWRP-WMO website. Doc4_4_North_American_Regional_Activities.pdf.",
+   "url": null,
+   "year": 2011
+  },
+  {
+   "text": "M. Peña and E. Kalnay, 2002: The life span of intraseasonal atmospheric anomalies: dependence on the phase relationship with the ocean. In: Working Group on Numerical Experimentation (WGNE) Blue Book.",
+   "url": null,
+   "year": 2002
+  },
+  {
+   "text": "Douglas, M., M. Peña, R. Villarpando, 2000: Special observations of the low-level flow over eastern Bolivia during the 1999 atmospheric mesoscale campaign. 6th Inter, Conf. on Southern Hemisphere Meteorology and Oceanography.",
+   "url": null,
+   "year": 2000
+  }
+ ]
+}

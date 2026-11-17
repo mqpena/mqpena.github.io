@@ -1,0 +1,259 @@
+{
+  "name": "Malaquías Peña",
+  "title": "Associate Research Professor",
+  "affiliation": "Civil and Environmental Engineering and Eversource Energy Center, University of Connecticut",
+  "affiliation_url": "https://www.eversource.uconn.edu/",
+  "email": "mpena@uconn.edu",
+  "github": "mqpena",
+  "bio": [
+    "Malaquías Peña is an Associate Research Professor at the University of Connecticut, associated with the <b>Eversource Energy Center</b> and <b>Civil and Environmental Engineering</b>. His research asks how incomplete observations and models can support reliable predictions of interacting Earth and infrastructure systems.",
+    "He connects <b>nonlinear dynamics and multiscale predictability</b> with <b>weather and climate prediction</b>, <b>data assimilation</b>, <b>digital twins</b>, and <b>infrastructure resilience</b>. His published work spans coupled prediction, forecast uncertainty, offshore wind, electricity loads, and weather-informed power-system analysis. Current work examines compact dynamical representations, scientific machine learning, hierarchical inference, and the value of environmental information for engineering decisions.",
+    "Before joining UConn in 2017, he spent more than a decade at NOAA's National Centers for Environmental Prediction, contributing to the development of GEFS, CFSv2 and the UFS. He holds a Ph.D. in Meteorology from the University of Maryland and founded UConn's graduate Power Grid Modernization Certificate."
+  ],
+  "interests": [
+    "Multiscale predictability and forecast-error growth",
+    "Coupled data assimilation and digital twins",
+    "Scientific machine learning and hybrid AI–NWP",
+    "Turbulence closure and coarse graining",
+    "Quantum computing and sensing for Earth systems",
+    "Weather-informed power systems and resilience"
+  ],
+  "education": [
+    [
+      "Ph.D. in Meteorology, 2003",
+      "University of Maryland, College Park"
+    ],
+    [
+      "M.Sc. in Meteorology, 1999",
+      "University of Oklahoma"
+    ],
+    [
+      "B.Sc. in Physics, 1993",
+      "National Autonomous University of Mexico (UNAM)"
+    ]
+  ],
+  "news": [
+    [
+      "Dec 2026",
+      "Two posters at the <b>AGU Fall Meeting 2026</b> (sessions IN13C, Dec 7, and IN33E, Dec 9) on Logit–Koopman foundation-model architectures and quantum resource accounting for data assimilation."
+    ],
+    [
+      "Nov 2026",
+      "Two papers accepted for oral presentation at <b>ACDSA 2027</b>: a reduced-order digital twin for moving marine infrastructure (with A. Fontanez) and wind power ramp detection in ensemble forecasts (with A. Prevezianos, A. Unlu and E. Anagnostou)."
+    ],
+    [
+      "Oct 2026",
+      "New preprint: <i>Logit–Koopman coordinates for scale-resolved forecast-error growth in a three-level Lorenz-96 system</i>, <a href=\"https://arxiv.org/abs/2610.34779v1\">arXiv:2610.34779</a>, submitted to <i>Chaos</i>."
+    ],
+    [
+      "Oct 2026",
+      "Seminar at the NOAA NCEP Environmental Modeling Center on coupled coastal wind–wave–current analysis with P. Mitsopoulos."
+    ],
+    [
+      "Sep 2026",
+      "<i>Impact of Assimilating Remote Sensing Observations on Wind and Wave Analysis Offshore of the Contiguous United States</i> published in <a href=\"https://doi.org/10.3390/rs18193383\"><i>Remote Sensing</i></a>."
+    ],
+    [
+      "Sep 2026",
+      "Preprint revised: <i>When is logistic error growth a spectral reduction?</i>, <a href=\"https://arxiv.org/abs/2608.26492v3\">arXiv:2608.26492</a>, submitted to <i>Nonlinear Processes in Geophysics</i>."
+    ],
+    [
+      "Sep 2026",
+      "Talk on multi-theory generative ensembles of the MJO at the 50th NOAA Climate Diagnostics and Prediction Workshop."
+    ],
+    [
+      "Aug 2026",
+      "Talk on quantum-scan data assimilation at the US CLIVAR workshop on quantum computing and sensing for weather and climate."
+    ],
+    [
+      "May 2026",
+      "Talk on hierarchy-native EO foundation models for digital twins at the 2nd ESA–NASA Workshop on AI Foundation Models for Earth Observation."
+    ]
+  ],
+  "areas": [
+    [
+      "Nonlinear Analytics",
+      "Mathematical foundations of multiscale predictability, forecast-error growth, Logit–Koopman representations, and coarse graining. Which dynamical information does a reduced model preserve, and when can learning distinguish mechanisms that produce similar aggregate behavior?"
+    ],
+    [
+      "Predictability and Processes",
+      "Weather and climate prediction across interacting time and space scales: coupled ocean–atmosphere dynamics, turbulence closures, subseasonal variability, offshore wind and wind–wave–current analysis."
+    ],
+    [
+      "Hierarchical Data Assimilation and Digital Twins",
+      "Combining heterogeneous observations and model information across scales: decentralized estimation, learned priors, uncertainty calibration, and digital twins tested for information sharing, physical consistency and prediction under missing observations."
+    ],
+    [
+      "Edge Sensing and Resilience",
+      "Environmental sensing and local computation for energy, water, coastal and marine infrastructure exposed to hazards, including quantum-enhanced and on-sensor approaches."
+    ]
+  ],
+  "preprints": [
+    {
+      "authors": "<b>M. Peña</b>",
+      "year": "2026",
+      "title": "When is logistic error growth a spectral reduction?",
+      "venue": "arXiv:2608.26492. Submitted to <i>Nonlinear Processes in Geophysics</i>.",
+      "paper": "https://arxiv.org/abs/2608.26492v3",
+      "code": "https://github.com/mqpena/logistic-error-growth-limits"
+    },
+    {
+      "authors": "<b>M. Peña</b>",
+      "year": "2026",
+      "title": "Logit–Koopman coordinates for scale-resolved forecast-error growth in a three-level Lorenz-96 system",
+      "venue": "arXiv:2610.34779. Submitted to <i>Chaos</i>.",
+      "paper": "https://arxiv.org/abs/2610.34779v1"
+    },
+    {
+      "authors": "D. Cerrai, M. Graziano, S. Tanaka, K. Z. Akdemir, G. Riegler, L. Ravel, P. Gunther, A. Unlu, <b>M. Peña</b>, B. Francoise, F. Carstensen, E. Anagnostou",
+      "year": "2026",
+      "title": "Assessing Extreme Weather Impacts on a Renewable-Driven Power System: A Scenario of Hurricane Sandy in New England's Future Power Grid",
+      "venue": "Submitted to <i>Energy Policy</i>; under review."
+    }
+  ],
+  "ongoing": [
+    {
+      "authors": "<b>M. Peña</b>, P. Mitsopoulos, S. Flampouris",
+      "title": "Water graphs for conservative coastal transport and inference",
+      "summary": "Graph formulation of conservative coastal transport and inverse inference, demonstrated in controlled numerical experiments.",
+      "repo": "watergraphs-coastal"
+    },
+    {
+      "authors": "<b>M. Peña</b>, P. Mitsopoulos",
+      "title": "Offline Current Corrections in Coupled Assimilation: Skill, Cross-Field Effects, and Limits",
+      "summary": "Hybrid AI–physics corrections of ocean currents in a controlled wind–wave–current assimilation study.",
+      "repo": "offline-current-corrections"
+    },
+    {
+      "authors": "<b>M. Peña</b>",
+      "title": "Generative learning for process inference with incomplete physical theories",
+      "summary": "Joint inference of processes and physical decoders, demonstrated in controlled experiments with an MJO verification case in progress.",
+      "repo": "generative-process-inference"
+    },
+    {
+      "authors": "<b>M. Peña</b>",
+      "title": "Logit–Koopman Compression for Forecast-Error Modeling",
+      "summary": "Compact Logit–Koopman representations for modeling forecast-error growth.",
+      "repo": null
+    },
+    {
+      "authors": "<b>M. Peña</b>",
+      "title": "Updateable memory for predicting observable conditions",
+      "summary": "Memory-based prediction of observable conditions that is updated as new observations arrive.",
+      "repo": null
+    },
+    {
+      "authors": "Y. García, <b>M. Peña</b>",
+      "title": "Structured Missingness as a Covert Channel: Location Fingerprinting and SM-Aware Defense in Federated Underwater Acoustic Sensing",
+      "summary": "Privacy risks and defenses arising from missing-data patterns in federated underwater acoustic sensor networks.",
+      "repo": null
+    }
+  ],
+  "projects": [
+    [
+      "PI",
+      "NOAA WPO JTTI",
+      "A Wind Wave Current Data Assimilation Scheme for the 3D Real Time Mesoscale Analysis (NA22OAR4590179)",
+      "2022–2025"
+    ],
+    [
+      "PI",
+      "NSF IUCRC",
+      "Weather Power Grid Testbed Experiments for Risk Contingency Management during Hazards",
+      "2025"
+    ],
+    [
+      "co-PI",
+      "DOE NETL",
+      "Resilient Grid System and Offshore Wind Power Integration",
+      "2025"
+    ],
+    [
+      "PI",
+      "Eversource Energy",
+      "Monitoring, Analysis and Prediction of Offshore Wind, Phase II",
+      "2022–2027"
+    ],
+    [
+      "PI",
+      "ONR through NIUVT",
+      "Underwater Acoustic Sensor and Transmitter Network for Precise Environmental Monitoring and Surveillance",
+      ""
+    ],
+    [
+      "PI",
+      "Eversource Energy",
+      "High Impact Weather and Power System Simulator for Renewable Energy Integration and Resilience Assessment",
+      "2023–2024"
+    ],
+    [
+      "PI",
+      "Eversource Energy",
+      "Fine Resolution Nowcasting of PV and Loads in Distribution Grids",
+      "2020–2023"
+    ],
+    [
+      "PI",
+      "UConn OVPR",
+      "Multi Time Scale Forecasting in Dispatch Hierarchy Frameworks for Renewable Energy Integration",
+      "2022–2023"
+    ],
+    [
+      "co-PI",
+      "UConn OVPR",
+      "Weather Forecast 2.0: Towards Highly Localized and Accurate Environmental Forecasting",
+      "2022–2023"
+    ],
+    [
+      "PI",
+      "Bay State Wind",
+      "Enhanced Environmental Monitoring and Modeling Capabilities for Offshore Wind Energy Generation, Phase I",
+      "2019–2022"
+    ]
+  ],
+  "teaching": [
+    [
+      "Predictive Analytics for Engineers and Scientists",
+      "Graduate, UConn, 2018–"
+    ],
+    [
+      "Data Analytics for Engineers",
+      "Undergraduate, UConn, 2023–"
+    ],
+    [
+      "Engineering Economics",
+      "Undergraduate, UConn, 2019–"
+    ],
+    [
+      "Environmental Modeling",
+      "Undergraduate, UConn, 2017–"
+    ],
+    [
+      "Quantitative Methods for Engineers",
+      "Graduate, UConn, 2021"
+    ],
+    [
+      "Modeling Coupled Urban Weather and Electric Grid Systems",
+      "Fulbright teaching, Brazil, 2020"
+    ],
+    [
+      "Fluid Mechanics",
+      "Undergraduate, UConn, 2017"
+    ],
+    [
+      "Probabilistic Forecasting and its Verification",
+      "Lectures, University of Maryland, 2010–2016"
+    ],
+    [
+      "Ensemble Modeling and Numerical Weather Prediction",
+      "Professional training courses, 2012 and 2014"
+    ]
+  ],
+  "service": [
+    "Associate Editor, <i>Weather and Forecasting</i> (AMS); MDPI <i>International Journal of Modelling</i>.",
+    "Co-Chair, U.S. WMO-THORPEX Science Steering Committee, 2012–2014; Co-Chair, WWRP North American Regional Committee, 2009.",
+    "Member, NOAA Subseasonal-to-Seasonal and Climate Development Task Forces, 2016–2019.",
+    "Organizer, International Conference on Subseasonal Forecasting (2013), NCEP Ensemble Users Workshop (2014), UConn Grid Modernization Summits (2018, 2019).",
+    "Reviewer for NSF, NOAA, the German Research Foundation (DFG), <i>Nature</i>, <i>Journal of Climate</i>, <i>QJRMS</i>, <i>Monthly Weather Review</i> and other journals."
+  ]
+}
